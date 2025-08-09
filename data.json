@@ -79,53 +79,53 @@
   ],
   "projects": [
     {
-      "name": "File Converter",
+      "name": "File Converter and Hospital Data Schema Generator",
       "source": "IQVIA",
-      "detail": "A Java web app parsing flat files via Excel-defined schema to generate corresponding XML file.",
+      "detail": "Upgraded the app installer. Automated schema file generation process reducing manual work by 20%.",
       "link": "",
       "tech": [
         "Java",
         "JSP",
         "JavaScript",
-        "Apache Tomcat",
-        "Apache Ant",
-        "MS SQL Server"
+        "Power Shell"
       ]
     },
     {
-      "name": "Dashboard",
+      "name": "Quota Management System",
       "source": "IQVIA",
-      "detail": "A comprehensive React application integrating login, dashboard, admin features, analysis tools, and quota management functionalities seamlessly.",
+      "detail": "Built dashboard that enables data visualization. Improving decision making for 100+ users. Upgraded and extended features for legacy application.",
       "link": "",
       "tech": [
+        ".NET",
         "React",
         "Redux-toolkit",
         "JavaScript",
         "MUI",
         "Google React Charts",
-        "Apex Charts"
+        "Apex Charts",
+        "SQL Server"
       ]
     },
     {
-      "name": "Sample Management",
+      "name": "Sample Management System",
       "source": "IQVIA",
-      "detail": "A .NET Web API for admin tasks: doctor management, drug samples, digital/manual signatures, image uploads, document signing, and quota allocation",
+      "detail": "Worked on live support for users. Automated duplicate data deletion process saving 5 hours each week.",
       "link": "",
-      "tech": ["C#", "ASP.NET", "MS SQL Server"]
+      "tech": ["NET", "SQL Server"]
     },
     {
-      "name": "VillaAPI",
-      "source": "Personal",
-      "detail": "A collection of APIs employing CRUD, authentication, pagination, caching, and repository pattern for efficient data handling and secure operations",
-      "link": "https://github.com/MahmudMridul/MagicVilla",
-      "tech": ["C#", "ASP.NET", "MS SQL Server"]
+      "name": "Training Management System",
+      "source": "IQVIA",
+      "detail": "Worked on live support for users. Extended features of the application. Led effort to resolve 10+ production issues.",
+      "link": "",
+      "tech": ["Oracle SQL"]
     },
     {
-      "name": "T-Shirt Store Dashboard (In Progress)",
-      "source": "Personal",
-      "detail": "The T-shirt store dashboard project features a comprehensive interface with user charts, tables, inventory, and order management tools. It includes analysis capabilities alongside secure login/logout functionalities for seamless monitoring and control of store operations",
-      "link": "https://github.com/LailaSumiyaKhan/dashboard",
-      "tech": ["React", "Redux-toolkit", "MUI", "Apex Charts"]
+      "name": "Share Point Data Extractor",
+      "source": "IQVIA",
+      "detail": "Configured the application to have multiple file download permission on startup making file extraction process fully automated. Fixed 1 major production bug saving minimum 2 hours of manual work each week.",
+      "link": "",
+      "tech": [".NET"]
     }
   ],
   "skills": {
@@ -214,4 +214,5 @@
       "platform": "Udemy"
     }
   ]
+
 }
